@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taylor-lin23/) for sure!
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: Despite the avatar on the left, I am a dog person.
-<details open>
+<details>
   <summary>Skills acquired from previous experience</summary>
   <DIV markdown="1">
 <img src="https://img.shields.io/badge/Java-grey?logo=coffeescript">
