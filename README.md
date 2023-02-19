@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: Despite the avatar on the left, I am a 🐶 person.
 <details>
-  <summary>Skills acquired from previous experience</summary>
+  <summary>Skills acquired from previous experience (click to expand)</summary>
   <DIV markdown="1">
 <img src="https://img.shields.io/badge/Java-grey?logo=coffeescript">
 <img src="https://img.shields.io/badge/Python-grey?logo=python">
