@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to connect and collaborate with people from the hacker community
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taylor-lin23/) for sure!
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: Despite the avatar on the left, I am a dog person.
+- ⚡ Fun fact: Despite the avatar on the left, I am a 🐶 person.
 <details>
   <summary>Skills acquired from previous experience</summary>
   <DIV markdown="1">
