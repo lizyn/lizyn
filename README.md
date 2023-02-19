@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m 23' Engineering master's student @ Penn, majoring in Computer Science-related fields
-- 🌱 I’m currently learning database system, operating systems & distributed software systems
+- 🌱 I’m currently learning databases, operating systems, distributed software development
 - 👯 I’m looking to connect and collaborate with people from the hacker community
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taylor-lin23/) for sure!
 - 😄 Pronouns: They/Them
