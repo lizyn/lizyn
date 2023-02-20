@@ -19,20 +19,23 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript">
 <img src="https://img.shields.io/badge/C/C++-grey?logo=cplusplus">
 <img src="https://img.shields.io/badge/JS/HTML/CSS-grey?logo=html5">
-<img src="https://img.shields.io/badge/React.js-grey?logo=react">
-<img src="https://img.shields.io/badge/Spring-grey?logo=spring">
 <img src="https://img.shields.io/badge/Swift-grey?logo=Swift">
+<br>  
+<img src="https://img.shields.io/badge/MySQL-grey?logo=Mysql">
+<img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb">
+<img src="https://img.shields.io/badge/Redis-grey?logo=redis">
+<img src="https://img.shields.io/badge/Elasticsearch-grey?logo=Elasticsearch">
+<img src="https://img.shields.io/badge/Neo4j-grey?logo=neo4j">
+<img src="https://img.shields.io/badge/Spark-grey?logo=ApacheSpark">
+<br>
+<img src="https://img.shields.io/badge/React.js-grey?logo=react">
+<img src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs">
+<img src="https://img.shields.io/badge/Spring-grey?logo=spring">
+<img src="https://img.shields.io/badge/RabbitMQ-grey?logo=rabbitmq">
 <img src="https://img.shields.io/badge/AWS-grey?logo=amazonAWS">
 <img src="https://img.shields.io/badge/Git-grey?logo=git">
 <img src="https://img.shields.io/badge/Docker-grey?logo=Docker">
 <img src="https://img.shields.io/badge/Linux-grey?logo=Linux">
-<img src="https://img.shields.io/badge/MySQL-grey?logo=Mysql">
-<img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb">
-<img src="https://img.shields.io/badge/Neo4j-grey?logo=neo4j">
-<img src="https://img.shields.io/badge/Elasticsearch-grey?logo=Elasticsearch">
-<img src="https://img.shields.io/badge/Redis-grey?logo=redis">
-<img src="https://img.shields.io/badge/Node.js-grey?logo=nodedotjs">
 <img src="https://img.shields.io/badge/Material%20UI-grey?logo=mui">
-<img src="https://img.shields.io/badge/RabbitMQ-grey?logo=rabbitmq">
 </DIV>
 </details>
