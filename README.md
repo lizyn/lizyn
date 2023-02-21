@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a 23' Engineering master's student @ Penn, majoring in Computer Science-related fields
 - 🌱 I’m currently learning databases, operating systems & distributed software development
 - 👯 I’m looking to connect and collaborate with people from the hacker community
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taylor-lin23/) for sure!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/taylor-lin23/) for sure! Or email me at "hey at lizyn.com"
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: Despite the avatar on the left, I am a 🐶 person.
 <details>
